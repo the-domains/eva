@@ -1,0 +1,14 @@
+layout_spectrum: 0.8703006198629737
+typography_spectrum: 0.6039309070911258
+color:
+  brandStrength: 0.05428500263951719
+  lightness: 0.7536523782182485
+  saturation: 0.2676498491782695
+  rhythmicContrast: 0.7414027557242662
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: eva
